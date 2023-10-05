@@ -1,0 +1,30 @@
+.nav{
+    background-color: wheat;
+    
+}
+article{
+    top: 50;
+    right: 20%;
+}
+h1{
+    font-size: 20px;
+    width: 200px;
+    margin: 0 auto;
+    font-style: italic;
+    background-color: wheat;
+}
+
+.article{
+    text-align: center;
+    
+}
+.Figure{
+    display: inline-block;
+}
+
+.footer{
+    margin: 0;
+    
+}
+
+
